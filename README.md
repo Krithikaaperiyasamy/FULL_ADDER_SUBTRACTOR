@@ -36,8 +36,9 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
 
+
+**Truthtable**
 
 FULL ADDER
 
@@ -98,6 +99,7 @@ assign borrow= ( ( a & b)| ( bin & ((a ^ b ))));
 
 endmodule
 
+
 **RTL Schematic**
 
 
@@ -111,6 +113,7 @@ FULL SUBTRACTOR
 
 
 <img width="1920" height="991" alt="Screenshot 2025-10-06 010429" src="https://github.com/user-attachments/assets/faabd8bc-00f6-4bd0-9165-caf7f36bc8ab" />
+
 
 
 **Output Timing Waveform**
