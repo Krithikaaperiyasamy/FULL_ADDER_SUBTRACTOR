@@ -38,11 +38,15 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+
 FULL ADDER
+
 
 <img width="386" height="309" alt="Screenshot 2025-10-06 010949" src="https://github.com/user-attachments/assets/1b012b75-7415-4998-96f7-67aabf63c940" />
 
+
 FULL SUBTRACTOR
+
 
 <img width="376" height="267" alt="Screenshot 2025-10-06 011100" src="https://github.com/user-attachments/assets/5d244127-16bb-48ee-a2c4-42716466689b" />
 
@@ -63,6 +67,7 @@ FULL SUBTRACTOR
 **Program:**
 
 Program to design a full adder and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
 
 i)FULL ADDER
 
@@ -98,10 +103,12 @@ endmodule
 
 FULL ADDER
 
+
 <img width="1920" height="984" alt="Screenshot 2025-10-06 005444" src="https://github.com/user-attachments/assets/09b9bf12-becd-4399-a88b-682665de8fb9" />
 
 
 FULL SUBTRACTOR
+
 
 <img width="1920" height="991" alt="Screenshot 2025-10-06 010429" src="https://github.com/user-attachments/assets/faabd8bc-00f6-4bd0-9165-caf7f36bc8ab" />
 
@@ -111,10 +118,12 @@ FULL SUBTRACTOR
 
 FULL ADDER
 
+
 <img width="1920" height="983" alt="Screenshot 2025-10-06 010021" src="https://github.com/user-attachments/assets/1f8479c3-6d77-4105-ae32-18e3ce913468" />
 
 
 FULL SUBTRACTOR
+
 
 <img width="1920" height="989" alt="Screenshot 2025-10-06 010659" src="https://github.com/user-attachments/assets/00bed295-5941-4162-a011-03bcb40c8f74" />
 
