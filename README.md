@@ -62,9 +62,9 @@ FULL SUBTRACTOR
 
 **Program:**
 
-/* Program to design a full adder and full subtractor circuit and verify its truth table in quartus using Verilog programming.*/
+Program to design a full adder and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 
-)FULL ADDER
+i)FULL ADDER
 
 module fa(a,b,cin,sum,carry);
 
@@ -95,19 +95,24 @@ endmodule
 
 **RTL Schematic**
 
+
 FULL ADDER
 
 <img width="1920" height="984" alt="Screenshot 2025-10-06 005444" src="https://github.com/user-attachments/assets/09b9bf12-becd-4399-a88b-682665de8fb9" />
+
 
 FULL SUBTRACTOR
 
 <img width="1920" height="991" alt="Screenshot 2025-10-06 010429" src="https://github.com/user-attachments/assets/faabd8bc-00f6-4bd0-9165-caf7f36bc8ab" />
 
+
 **Output Timing Waveform**
+
 
 FULL ADDER
 
 <img width="1920" height="983" alt="Screenshot 2025-10-06 010021" src="https://github.com/user-attachments/assets/1f8479c3-6d77-4105-ae32-18e3ce913468" />
+
 
 FULL SUBTRACTOR
 
